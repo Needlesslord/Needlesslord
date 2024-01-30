@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on any game's design.
 - 📫 How to reach me: nlamonjapujol@gmail.com
 
-- Find all my repositories here.
-- Find my portfolio here.
-- Find my LinkedIn here.
+- Find all my repositories [here]().
+- Find my portfolio [here]().
+- Find my LinkedIn [here](https://www.linkedin.com/in/needlesslord/).
 
 <!---
 Needlesslord/Needlesslord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
