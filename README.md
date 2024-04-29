@@ -6,12 +6,13 @@
 
 -----
 
-Find all my repositories [here]().
+Find all my repositories [here](https://needlesslord.github.io/Needlesslord/).
 
-Find my portfolio [here](https://needlesslord.github.io/nurialamonja/).
+Find my GitHub Profile [here](https://github.com/Needlesslord).
 
 Find my LinkedIn [here](https://www.linkedin.com/in/needlesslord/).
 
+Find my portfolio [here](https://needlesslord.github.io/nurialamonja/).
 
 <!---
 Needlesslord/Needlesslord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
